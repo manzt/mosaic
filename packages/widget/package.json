@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@uwdata/vgplot": "^0.4.0",
-    "apache-arrow": "^13.0.0",
+    "apache-arrow": "^15.0.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
